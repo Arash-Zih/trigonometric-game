@@ -47,7 +47,7 @@ Your mission: **apply the right function at the right time** to protect humanity
 ### Installation
 
 # Clone the repository
-git clone https://github.com/Arash-zihayat/trigonometric-defence.git
+git clone https://github.com/Arash-Zih/trigonometric-defence.git
 
 # Enter project folder
 cd trigonometric-defence
